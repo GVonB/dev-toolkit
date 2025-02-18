@@ -16,7 +16,8 @@ A curated list of tools that have personally improved my development and learnin
 ## Development & Coding  
 
 | Tool | Description | Link |  
-|------|------------|------|  
+|------|------------|------|
+| Iconify | A powerful and easy-to-use icon framework that simplifies consistent UI design. I use its extensive collection of logos and symbols through both the web component and framework-native components (React/Vue). | [🔗&nbsp;Website](https://iconify.design/) |
 | Insomnia | A robust REST API client with a clean UI. Useful for in-depth API testing and development. | [🔗&nbsp;Website](https://example.com) |  
 | Postman (VS Code Extension) | An alternative to Insomnia in most cases, I use the Postman extension for quick and simple API testing inside VS Code. | [🔗&nbsp;Website](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode) |
 | iTerm2 | My old terminal of choice for MacOS. With profiles, keybinds, and huge community support, the lack of cross-platform support is the only real downside. If Warp's required login system and closed-source nature is a deal-breaker, this is my go-to recommendation. | [🔗&nbsp;Website](https://iterm2.com/) |
