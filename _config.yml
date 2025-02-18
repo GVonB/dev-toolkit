@@ -1,0 +1,4 @@
+theme: midnight
+title: "Dev Toolkit"
+description: "A curated list of development tools that enhance productivity, debugging, and workflow."
+show_downloads: false  # Removes GitHub download button
