@@ -3,17 +3,17 @@ A curated list of tools that have personally improved my development and learnin
 
 ---
 
-## 🔹 Categories  
+## Categories  
 
-- [Development & Coding](#📌-development--coding)  
-- [Productivity & Workflow](#⚡-productivity--workflow)  
-- [Debugging & Optimization](#🐛-debugging--optimization)  
-- [Learning & References](#📚-learning--references)  
-- [Miscellaneous](#🎯-miscellaneous)  
+- [Development & Coding](#development--coding)  
+- [Productivity & Workflow](#productivity--workflow)  
+- [Debugging & Optimization](#debugging--optimization)  
+- [Learning & References](#learning--references)  
+- [Miscellaneous](#miscellaneous)  
 
 ---
 
-## 📌 Development & Coding  
+## Development & Coding  
 
 | Tool | Description | Link |  
 |------|------------|------|  
@@ -22,7 +22,7 @@ A curated list of tools that have personally improved my development and learnin
 
 ---
 
-## ⚡ Productivity & Workflow  
+## Productivity & Workflow  
 
 | Tool | Description | Link |  
 |------|------------|------|  
@@ -32,7 +32,7 @@ A curated list of tools that have personally improved my development and learnin
 
 ---
 
-## 🐛 Debugging & Optimization  
+## Debugging & Optimization  
 
 | Tool | Description | Link |  
 |------|------------|------|  
@@ -41,7 +41,7 @@ A curated list of tools that have personally improved my development and learnin
 
 ---
 
-## 📚 Learning & References  
+## Learning & References  
 
 | Resource | Description | Link |  
 |----------|------------|------|  
@@ -49,7 +49,7 @@ A curated list of tools that have personally improved my development and learnin
 
 ---
 
-## 🎯 Miscellaneous  
+## Miscellaneous  
 
 | Tool | Description | Link |  
 |------|------------|------|  
@@ -58,7 +58,7 @@ A curated list of tools that have personally improved my development and learnin
 
 ---
 
-## 💡 Contributing  
+## Contributing  
 
 This is a personal list, but if you have a tool that really made a difference in your development workflow, feel free to open an issue or a pull request!  
 
@@ -70,6 +70,6 @@ For future additions, I'm using the following format:
 
 ---
 
-## 📜 License  
+## License  
 
 [MIT License](LICENSE) – Free to modify or build off of this list!
