@@ -21,6 +21,7 @@ A curated list of tools that have personally improved my development and learnin
 | Postman (VS Code Extension) | An alternative to Insomnia in most cases, I use the Postman extension for quick and simple API testing inside VS Code. | [🔗&nbsp;Website](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode) |
 | iTerm2 | My old terminal of choice for MacOS. With profiles, keybinds, and huge community support, the lack of cross-platform support is the only real downside. If Warp's required login system and closed-source nature is a deal-breaker, this is my go-to recommendation. | [🔗&nbsp;Website](https://iterm2.com/) |
 | Visual Studio Code | A modular, customizable, and cross-platform text editor. The suite of third-party tools and extensions available let you customize your environment to your liking, in a much simpler manner than terminal tools like Vim. | [🔗&nbsp;Website](https://code.visualstudio.com/) |
+| Warp | My current terminal of choice. Its clean aesthetic, autocompletion, and cross-platform remote configuration syncing keep me coming back. With so many QoL features, everything in Warp just works, keeping me in flow. However, it is closed-source and requires a login–potential deal-breakers for some. | [🔗&nbsp;Website](https://www.warp.dev/) |
 
 ---
 
