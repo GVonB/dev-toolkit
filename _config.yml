@@ -1,6 +1,6 @@
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 title: "Dev Toolkit"
-description: "A curated list of development tools that enhance productivity, debugging, and workflow."
+description: "A curated list of essential development tools."
 include:
   - README.md  # Uses README as the homepage for the GitHub Pages site
 permalink: /:path/
