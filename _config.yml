@@ -10,10 +10,10 @@ sidebar:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/GVonB/
-    name: LinkedIn
+  - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/gvonb/
-    name: View Repository
+  - name: View Repository
     icon: <i class="fa-regular fa-bookmark"></i>
     link: https://github.com/GVonB/dev-toolkit/
 plugins:
