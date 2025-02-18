@@ -28,7 +28,8 @@ A curated list of tools that have personally improved my development and learnin
 ## Productivity & Workflow  
 
 | Tool | Description | Link |  
-|------|------------|------|  
+|------|------------|------|
+| After Effects | A powerful program for creating motion graphics, animations, VFX, and more. New features are added every year, making my workflow more efficient. I use AE to create visuals for projects, animations, and video content. The biggest downside is the price, with third-party plugins costing even more. | [🔗&nbsp;Website](https://www.adobe.com/products/aftereffects.html#) |
 | Microsoft PowerToys | A life-saving suite of productivity modules that greatly enhance the feel of Windows. FancyZones, Color Picker, Always on Top, Peek, and PowerToys Run are my most used, with the last two providing the easiest Windows equivalent to their MacOS counterparts. | [🔗&nbsp;Website](https://learn.microsoft.com/en-us/windows/powertoys/) |
 | Raycast | A direct upgrade to the default Spotlight Search on MacOS, this tool allows me to quickly perform a huge variety of tasks including calculations/conversions, file searches, and specific application functions through various extensions. | [🔗&nbsp;Website](https://www.raycast.com/) |
 | Rectangle | A simple, free, and open-source window management tool for MacOS. Rectangle adds the option to use keybinds to move and tile windows, with the option to specify window margins as well. | [🔗&nbsp;Website](https://rectangleapp.com/) |
