@@ -51,6 +51,7 @@ A curated list of tools that have personally improved my development and learnin
 | Resource | Description | Link |  
 |----------|------------|------|  
 | Mobbin | A great source of professional inspiration for web and mobile applications. | [🔗&nbsp;Website](https://mobbin.com/browse/web/apps) |  
+| Realtime Colors | A great way to quickly test and visualize how a color palette might look on a functional site. Allows for light/dark mode testing and use of custom fonts. | [🔗&nbsp;Website](https://www.realtimecolors.com/) | 
 
 ---
 
