@@ -4,5 +4,6 @@ description: "A curated list of essential development tools."
 include:
   - README.md  # Uses README as the homepage for the GitHub Pages site
 permalink: /:path/
+logo: /assets/img/logo.png
 plugins:
   - jekyll-remote-theme
