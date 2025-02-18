@@ -52,6 +52,7 @@ A curated list of tools that have personally improved my development and learnin
 | Resource | Description | Link |  
 |----------|------------|------|  
 | Mobbin | A great source of professional inspiration for web and mobile applications. | [🔗&nbsp;Website](https://mobbin.com/browse/web/apps) |  
+| Notion | A highly versatile note-taking and task-management tool. Despite its extensive features, I primarily use Notion for its clean, structured tables with categorized data and embedded pages to track algorithms I've learned and notable LeetCode problems I've solved. | [🔗&nbsp;Website](https://www.notion.com/product) |
 | Realtime Colors | A great way to quickly test and visualize how a color palette might look on a functional site. Allows for light/dark mode testing and use of custom fonts. | [🔗&nbsp;Website](https://www.realtimecolors.com/) | 
 
 ---
