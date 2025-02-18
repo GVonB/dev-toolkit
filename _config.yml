@@ -1,7 +1,9 @@
-theme: jekyll-theme-midnight
+remote_theme: lewismiddleton/cayman-dark
 title: "Dev Toolkit"
 description: "A curated list of essential development tools."
 include:
   - README.md  # Uses README as the homepage for the GitHub Pages site
 permalink: /:path/
 show_downloads: false  # Removes GitHub download button
+plugins:
+  - jekyll-remote-theme
