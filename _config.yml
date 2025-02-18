@@ -1,9 +1,8 @@
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+remote_theme: BDHU/minimalist
 title: "Dev Toolkit"
 description: "A curated list of essential development tools."
 include:
   - README.md  # Uses README as the homepage for the GitHub Pages site
 permalink: /:path/
-show_downloads: false  # Removes GitHub download button
 plugins:
   - jekyll-remote-theme
