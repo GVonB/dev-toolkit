@@ -1,4 +1,7 @@
 theme: jekyll-theme-midnight
 title: "Dev Toolkit"
 description: "A curated list of development tools that enhance productivity, debugging, and workflow."
+include:
+  - README.md  # Uses README as the homepage for the GitHub Pages site
+permalink: /:path/
 show_downloads: false  # Removes GitHub download button
