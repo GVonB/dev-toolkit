@@ -5,11 +5,11 @@ A curated list of tools that have personally improved my development and learnin
 
 ## 🔹 Categories  
 
-- [Development & Coding](#development--coding)  
-- [Productivity & Workflow](#productivity--workflow)  
-- [Debugging & Optimization](#debugging--optimization)  
-- [Learning & References](#learning--references)  
-- [Miscellaneous](#miscellaneous)  
+- [Development & Coding](#📌-development--coding)  
+- [Productivity & Workflow](#⚡-productivity--workflow)  
+- [Debugging & Optimization](#🐛-debugging--optimization)  
+- [Learning & References](#📚-learning--references)  
+- [Miscellaneous](#🎯-miscellaneous)  
 
 ---
 
