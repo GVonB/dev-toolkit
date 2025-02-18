@@ -18,7 +18,8 @@ A curated list of tools that have personally improved my development and learnin
 | Tool | Description | Link |  
 |------|------------|------|  
 | Insomnia | A robust REST API client with a clean UI. Useful for in-depth API testing and development. | [🔗&nbsp;Website](https://example.com) |  
-| Postman (VS Code Extension) | An alternative to Insomnia in most cases, I use the Postman extension for quick and simple API testing inside VS Code. | [🔗&nbsp;Website](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode) |  
+| Postman (VS Code Extension) | An alternative to Insomnia in most cases, I use the Postman extension for quick and simple API testing inside VS Code. | [🔗&nbsp;Website](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode) |
+| Visual Studio Code | A modular, customizable, and cross-platform text editor. The suite of third-party tools and extensions available let you customize your environment to your liking, in a much simpler manner than terminal tools like Vim. | [🔗&nbsp;Website](https://code.visualstudio.com/) |
 
 ---
 
