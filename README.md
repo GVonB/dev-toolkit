@@ -65,6 +65,7 @@ A curated list of tools that have personally improved my development and learnin
 |------|------------|------|  
 | CleanShot&nbsp;X | A screenshot tool for MacOS that simply works well. The scrolling screenshot feature is especially nice for pages that don't work well with other full-page capture tools. Student discount is available. | [🔗&nbsp;Website](https://cleanshot.com/) |
 | Everything | A filesystem indexing tool that allows you to search your entire system. With instant search results as you type, regex support, and low resource usage, this tool speeds up all kinds of file searches compared to Windows' File Explorer. | [🔗&nbsp;Website](https://www.voidtools.com/) |
+| ShareX | Markups, OCR, Color Picker, Ruler, Hash checker, and more give this program a multitude of uses. The file upload on capture feature can be used to instantly host your screenshots on a remote server, with URL shortening for quick embeds. | [🔗&nbsp;Website](https://getsharex.com/) |
 | Wallpaper Engine | A fun way to liven up any Windows desktop, especially nice when combined with a tiling window manager that leaves margins between windows. | [🔗&nbsp;Website](https://www.wallpaperengine.io/en) |  
 
 ---
