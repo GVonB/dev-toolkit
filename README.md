@@ -17,6 +17,7 @@ A curated list of tools that have personally improved my development and learnin
 
 | Tool | Description | Link |  
 |------|------------|------|
+| Heroku | A super powerful and efficient platform as a service (PaaS). Simplifies automatic CI/CD workflows and requires minimal setup. $312 of free credits with the GitHub Student Developer Pack | [🔗&nbsp;Website](https://www.heroku.com/platform) |  
 | Iconify | A powerful and easy-to-use icon framework that simplifies consistent UI design. I use its extensive collection of logos and symbols through both the web component and framework-native components (React/Vue). | [🔗&nbsp;Website](https://iconify.design/) |
 | Insomnia | A robust REST API client with a clean UI. Useful for in-depth API testing and development. | [🔗&nbsp;Website](https://example.com) |  
 | Postman (VS Code Extension) | An alternative to Insomnia in most cases, I use the Postman extension for quick and simple API testing inside VS Code. | [🔗&nbsp;Website](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode) |
